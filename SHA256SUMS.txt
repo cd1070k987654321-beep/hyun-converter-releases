@@ -1,2 +1,2 @@
-b9b2fe2aacd3abc7ecf658b4456af690bc2528784c6c11951877b3d7a71c42bf  HYUN-Converter-Setup.exe
-fcd66cd0b1a960869147b1313521bdcf162e9a76f5bb0a5296ef6f5a23347a62  HYUN-Converter-macOS-arm64.dmg
+a202d49a1a6370771b6ab23fb003848d6c735064429fad9b2a590c4b4ff3cb34  HYUN-Converter-Setup.exe
+913ba5bc962b0ed9aaee507010786092f50b68b35fb50b0b4e1a3a54aca48081  HYUN-Converter-macOS-arm64.dmg

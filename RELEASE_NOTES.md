@@ -4,6 +4,7 @@ HYUN Converter의 첫 정식 버전입니다.
 
 ## 주요 기능
 
+- 프로그램 본체의 중복 설명 문구를 정리해 더 간결한 UI로 개선
 - Windows x64 / macOS Apple Silicon 지원
 - 문서, 영상, 오디오, 이미지 로컬 변환
 - PDF, DOC, DOCX, HWP, HWPX, PPT, PPTX, TXT, RTF 문서 처리
